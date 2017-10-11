@@ -1,10 +1,30 @@
 <h1>Welcome to my Language Learning Website</h1>
-
 <h2>Section On: Basic Info</h2>
 <p>This is the first paragraph. Its boring, not dissimilar to QMUL...</p>
 
 <hr>
+<h2>Some HTML Formatting Stuff</h2>
+<h3>Lists</h3>
+<h4>Ordered Lists have numbers</h4>
+<ol>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ol>
 
+<h4>Unordered Lists have bullets</h4>
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
+
+<hr>
+
+<h3>Text Styles</h3>
+<p>In this paragraph, I am going to <u>underline</u>, and then this is <strong>very important</strong>, and then this is <em>italicised</em> for effect. For example, '<em>Oh no!</em> he cried.'</p>
+
+<hr>
 
 
 ### Jekyll Themes
