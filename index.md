@@ -40,7 +40,7 @@
   <tr>
     <td>Table</td>
     <td>La Table</td>
-    <td>Ctyl</td>
+    <td>Ctol</td>
   </tr>
 </table>
 
