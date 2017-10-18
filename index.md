@@ -31,6 +31,23 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Doge_homemade_meme.jpg" />
 
 
+<table>
+  <tr>
+    <th>English Word</th>
+    <th>Russian Word</th>
+    <th>French Word</th>
+  </tr>
+  <tr>
+    <td>Table</td>
+    <td>La Table</td>
+    <td>Ctyl</td>
+  </tr>
+</table>
+
+<hr>
+
+
+
 
 
 
