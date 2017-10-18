@@ -34,8 +34,8 @@
 <table>
   <tr>
     <th>English Word</th>
-    <th>Russian Word</th>
     <th>French Word</th>
+    <th>Russian Word</th>
   </tr>
   <tr>
     <td>Table</td>
