@@ -1,7 +1,6 @@
 <ul class="breadcrumb">
   <li><a href="https://github.com/Doggo1/GIForJIF/edit/master/index.md">Home</a></li>
   <li><a href="#">Pictures</a></li>
-  <li>Italy</li>
 </ul>
 
 <h1>Welcome to my Language Learning Website</h1>
