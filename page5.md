@@ -4,4 +4,7 @@
 </ul>
 
 <h1>Past Tense</h1>
-<iframe src="https://h5p.org/h5p/embed/153236" width="1090" height="288" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<h2> In the first exercise, you will need to read through the text carefully, identify the <i>singular</i> past tense verbs and mark them. In the second exercise, you will need to read through the text carefully, identify the <i>plural</i> past tense verbs and mark them also.</h2>
+<iframe src="https://h5p.org/h5p/embed/153236" width="1090" height="326" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<br>
+<iframe src="https://h5p.org/h5p/embed/154361" width="1090" height="326" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
