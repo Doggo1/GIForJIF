@@ -5,21 +5,18 @@
 <li><a href="https://doggo1.github.io/GIForJIF/page4.html">Page 4</a></li>
 <li><a href="https://doggo1.github.io/GIForJIF/page5.html">Page 5</a></li>
 </ul>
-
-<h1>Welcome to my Language Learning Website: <strong>RLan</strong></h1>
-<h2>How do I improve my Russian?</h2>
-<p>RLan provides the necessary information and practice exercises to help you to become a better linguist. Across our 6 content pages, we cover a large variety of topics, focusing on all areas of language learning. So don't be Stalin' and get to work!</p>
-
 <hr>
-<h2>Some HTML Formatting Stuff</h2>
-<h3>Lists</h3>
-<h4>Ordered Lists have numbers</h4>
-<ol>
-  <li>Item 1</li>
-  <li>Item 2</li>
-  <li>Item 3</li>
-</ol>
-
+<h1>Welcome to <strong>RLan</strong>, my language learning website.</h1>
+<h2>How can RLan help to improve my Russian?</h2>
+<p>RLan provides the necessary information and practice exercises to help you to become a better linguist. Across our 6 content pages, we cover a large variety of topics, focusing on all areas of language learning. So don't be Stalin' and get to work!</p>
+<h2>RLan's Areas of Focus</h2>
+<ul>
+  <li>General Vocabulary</li>
+  <li>Oral Practice</li>
+  <li>Grammar 1</li>
+  <li>Grammar 2</li>
+<hr>
+  <p>General Vocabulary is a page detailing all of the basic topics </p>
 <h4>Unordered Lists have bullets</h4>
 <ul>
   <li>Item 1</li>
