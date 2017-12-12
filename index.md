@@ -8,15 +8,17 @@
 <hr>
 <h1>Welcome to <strong>RLan</strong>, my language learning website.</h1>
 <h2>How can RLan help to improve my Russian?</h2>
-<p>RLan provides the necessary information and practice exercises to help you to become a better linguist. Across our 6 content pages, we cover a large variety of topics, focusing on all areas of language learning. So don't be Stalin' and get to work!</p>
-<h2>RLan's Areas of Focus</h2>
+<p>RLan provides the necessary information and practice exercises to help you to become a better linguist. Across our 6 content pages, we cover a large variety of topics, focusing on all areas of language learning. So stop Stalin' and start working!</p>
+<h2>Areas of Focus</h2>
 <ul>
   <li>General Vocabulary</li>
   <li>Oral Practice</li>
   <li>Grammar 1</li>
   <li>Grammar 2</li>
 <hr>
-  <p>General Vocabulary is a page detailing all of the basic topics </p>
+  <p>General Vocabulary is a page detailing all of the basic topics which you will need on a day to day basis; such as sports, animals and food. Within this page, there are comprehensive lists of vocabulary and phrases for each topic, as well as a food memory game, sports matching exercise and an interactive animal video. </p>
+  <P>Oral practice outlines useful phrases and tips and hints for colloquial speech. In Russian, the register they use to speak is very informal, in comparison with their more formal writing style; the colloquial speech area is in place to help you to adjust to everyday Russian speech. The page also has a more practical, hands-on approach to learning with the conversational audio file. This aids with your listening skills, as well as reinforcing the phrases previously learned on the page through listening and repetition. The video is complete with multiple choice questions, summarising the audio file so you can test yourself afterwards.</p>
+
 <h4>Unordered Lists have bullets</h4>
 <ul>
   <li>Item 1</li>
