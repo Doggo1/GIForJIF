@@ -6,9 +6,9 @@
 <li><a href="https://doggo1.github.io/GIForJIF/page5.html">Page 5</a></li>
 </ul>
 
-<h1>Welcome to my Language Learning Website</h1>
-<h2>Section On: Basic Info</h2>
-<p>This is the first paragraph. Its boring, not dissimilar to QMUL...</p>
+<h1>Welcome to my Language Learning Website: <strong>RLan</strong></h1>
+<h2>How do I improve my Russian?</h2>
+<p>RLan provides the necessary information and practice exercises to help you to become a better linguist. Across our 6 content pages, we cover a large variety of topics, focusing on all areas of language learning. So don't be Stalin' and get to work!</p>
 
 <hr>
 <h2>Some HTML Formatting Stuff</h2>
