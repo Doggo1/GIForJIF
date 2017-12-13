@@ -12,7 +12,7 @@
 <hr>
 <h2>Food</h2>
 <p> Food is well-known to be one of the most important subjects to learn when starting a language - people talk about food every day! Below is a list of some of the main foods you need to learn, followed by a short list of Russian foods - hopefully one day you will be Putin' this to good use!</p>
-<h3>Below, the words are listed English first, followed by the Russian translation:</h3>
+<p>Below, the words are listed English first, followed by the Russian translation:</p>
 <ul>
   <li>Orange - Апельсин</li>
   <li>Apple - Яблоко</li>
