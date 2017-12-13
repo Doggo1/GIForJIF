@@ -23,7 +23,7 @@
   <hr>
   <p>Grammar 1 is where you go to learn or practice your case endings throughout the various tables. The rules and examples provided are extensive and include context to improve your grammatical knowledge. Finally, a 'mark the words' exercise will test how well you can recognise different cases.</p>
   <hr>
-  <p> Grammar 2 is filled with all you need to know about Tenses in Russian. The page is complete with tables, rules and exmples and a area to look over something new - aspects and moods in Russian.<p>
+  <p> Grammar 2 is filled with all you need to know about Tenses in Russian. The page is complete with tables, rules and examples and an area to look over something new - aspects and moods in Russian.<p>
   <hr>
 
 <h3> Additional Information</h3>
