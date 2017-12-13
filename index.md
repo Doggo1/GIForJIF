@@ -45,8 +45,3 @@
    <li><a href="http://masterrussian.com/">Master Russian</a></li>
 </ul>
  <hr>
-
-<h3>Text Styles</h3>
-<p>In this paragraph, I am going to <u>underline</u>, and then this is <strong>very important</strong>, and then this is <em>italicised</em> for effect. For example, '<em>Oh no!</em> he cried.'</p>
-
-
