@@ -40,10 +40,6 @@
 <hr>
 <h3>Links and Images</h3>
 <p>First I am going to link to <a href="https://qmplus.qmul.ac.uk/course/view.php?id=4944">my website </a></p>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Doge_homemade_meme.jpg" />
-
-
 <table>
   <tr>
     <th>English Word</th>
@@ -59,15 +55,3 @@
 
 <hr>
 
-
-
-
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Doggo1/GIForJIF/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
