@@ -30,10 +30,10 @@
 <ul>
   <li>About Russia</li>
   <li>History and Culture of Russia</li>
-  <li>Frequently asked questions</li>
+  <li>Frequently asked Questions</li>
 </ul>
 <hr>
-<p> In the About Russia section, you will learn all you need to know about the people and the sites. Then, in the History and Culture area, a brief history of Russia is provided, as well as all of their traditions and superstitions! The frequently asked questions section will hopefully answer any queries you have about Russia or its lanugage.</p> 
+<p> In the 'About Russia' section, you will learn all you need to know about the people and the sights. Then, in the 'History and Culture' area, a brief history of Russia is provided, as well as all of their traditions and superstitions! The 'Frequently asked Questions' section will hopefully answer any queries you have about Russia or its lanugage.</p> 
 <hr>
 
 <h3>Interesting Russian Site Links</h3>
