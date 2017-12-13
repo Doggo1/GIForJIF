@@ -44,4 +44,3 @@
   <li><a href="https://www.yandex.ru/">Яндекс</a></li>
    <li><a href="http://masterrussian.com/">Master Russian</a></li>
 </ul>
- <hr>
