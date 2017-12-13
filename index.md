@@ -16,17 +16,13 @@
   <li>Grammar 1</li>
   <li>Grammar 2</li>
 <hr>
-  <p>General Vocabulary outlines all of the basic topics which you will need on a day to day basis; such as sports, animals and food. Within this page, there are comprehensive lists of vocabulary and phrases for each topic, as well as a food memory game, sports matching exercise and an interactive animal video. Link to this page below.</p>
-  <a href="https://doggo1.github.io/GIForJIF/page2.html">Page 2</a>
+  <p>General Vocabulary outlines all of the basic topics which you will need on a day to day basis; such as sports, animals and food. Within this page, there are comprehensive lists of vocabulary and phrases for each topic, as well as a food memory game, sports matching exercise and an interactive animal video.</p>
   <hr>
-  <P>Oral practice details useful phrases and tips and hints for colloquial speech. In Russian, the register they use to speak is very informal, in comparison with their more formal writing style; the colloquial speech area is in place to help you to adjust to everyday Russian speech. The page also has a more practical, hands-on approach to learning with the conversational audio file. This aids with your listening skills, as well as reinforcing the phrases previously learned on the page through listening and repetition. The page is complete with multiple choice questions, summarising the audio file so you can test yourself afterwards. Link to this page below.</p>
-  <a href="https://doggo1.github.io/GIForJIF/page3.html">Page 3</a>
+  <P>Oral practice details useful phrases and tips and hints for colloquial speech. In Russian, the register they use to speak is very informal, in comparison with their more formal writing style; the colloquial speech area is in place to help you to adjust to everyday Russian speech. The page also has a more practical, hands-on approach to learning with the conversational audio file. This aids with your listening skills, as well as reinforcing the phrases previously learned on the page through listening and repetition. The page is complete with multiple choice questions, summarising the audio file so you can test yourself afterwards.</p>
   <hr>
-  <p>The Grammar 1 page is where you go to learn or practice your case endings throughout the various tables. The rules and examples provided are extensive and include context to improve your grammatical knowledge. Finally, a 'mark the words' exercise will test how well you can recognise different cases. Link to this page below.</p>
-  <a href="https://doggo1.github.io/GIForJIF/page4.html">Page 4</a>
+  <p>The Grammar 1 page is where you go to learn or practice your case endings throughout the various tables. The rules and examples provided are extensive and include context to improve your grammatical knowledge. Finally, a 'mark the words' exercise will test how well you can recognise different cases.</p>
   <hr>
-  <p> Grammar 2 is filled with all you need to know about Tenses in Russian. The page is complete with tables, rules and exmples and a area to look over something new - aspects and moods in Russian. Link to this page below.<p>
-  <a href="https://doggo1.github.io/GIForJIF/page5.html">Page 5</a>
+  <p> Grammar 2 is filled with all you need to know about Tenses in Russian. The page is complete with tables, rules and exmples and a area to look over something new - aspects and moods in Russian.<p>
   <hr>
 
 <h4>Unordered Lists have bullets</h4>
