@@ -28,4 +28,21 @@
 <iframe src="https://h5p.org/h5p/embed/156379" width="1071" height="1047" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <h2>Sports</h2>
-<p> Sports is a useful topic to learn, as 
+<p>Below, the words are listed English first, followed by the Russian translation:</p>
+<ul>
+  <li>Rugby - Регби</li>
+  <li>Cycling - Велоспорт</li>
+  <li>Football - Футбол</li>
+  <li>Basketball - Баскетбол</li>
+  <li>Hockey - Хоккей</li>
+  <li>Swimming - Плавание</li>
+  <li>Athletics - Атлетика</li>
+  <li>Tennis - Теннис</li>
+</ul>  
+
+
+
+
+<H2>Sports Matching Exercise</H2>
+<iframe src="https://h5p.org/h5p/embed/156872" width="1071" height="682" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
