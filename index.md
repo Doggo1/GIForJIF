@@ -18,13 +18,7 @@
   <li>Grammar 1</li>
   <li>Grammar 2</li>
 </ul>
-  <p>General Vocabulary outlines all of the basic topics which you will need on a day to day basis; such as sports, animals and food. Within this page, there are comprehensive lists of vocabulary and phrases for each topic, as well as a food memory game, sports matching exercise and an interactive animal video.</p>
-  <hr>
-  <P>Oral practice details useful phrases and tips and hints for colloquial speech. In Russian, the register they use to speak is very informal, in comparison with their more formal writing style; the colloquial speech area is in place to help you to adjust to everyday Russian speech. The page also has a more practical, hands-on approach to learning with the conversational audio file. This aids with your listening skills, as well as reinforcing the phrases previously learned on the page through listening and repetition. The page is complete with multiple choice questions, summarising the audio file so you can test yourself afterwards.</p>
-  <hr>
-  <p>Grammar 1 is where you go to learn or practice your case endings throughout the various tables. The rules and examples provided are extensive and include context to improve your grammatical knowledge. Finally, a 'mark the words' exercise will test how well you can recognise different cases.</p>
-  <hr>
-  <p> Grammar 2 is filled with all you need to know about Tenses in Russian. The page is complete with tables, rules and examples and an area to look over something new - aspects and moods in Russian.<p>
+  <iframe src="https://h5p.org/h5p/embed/158064" width="1090" height="252" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   <hr>
 
 <h3> Additional Information</h3>
