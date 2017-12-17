@@ -42,7 +42,26 @@
   <li><strong>-ей (P,M,F)</strong></li>
   <li><strong>-й (P,N)</strong></li>
 </ul>
-  
+<hr>
+<h4><strong>Dative Case</strong></h4>
+<p> The Dative Case is used, principally, for converying the idea of giving or "to" or "for". For example: Написать письмо другу (To write a letter to a friend). The dative is also used to show an object towards which an action is directed. For example: Верить другу (To trust a friend). The prepositions used are: <strong>по, к, подобно, согласно, благодаря, вопреки</strong>. The Dative endings are shown below, with S or P for singular or plural respectively, M for masculine, F for feminine and N for neuter:</p>
+<ul>
+  <li><strong>–у (S,M,F)</strong></li>
+  <li><strong>-ю (S,M,F)</strong></li>
+  <li><strong>-е (S,M,N)</strong></li>
+  <li><strong>-и (S,N)</strong></li>
+  <li><strong>-ам (P,M,N)</strong></li>
+  <li><strong>-ям (P,M,N,F)</strong></li>
+</ul>
+
+
+
+
+
+
+
+
+
   
   
   
