@@ -53,8 +53,17 @@
   <li><strong>-ам (P,M,N)</strong></li>
   <li><strong>-ям (P,M,N,F)</strong></li>
 </ul>
-
-
+<hr>
+<h4><strong>Instrumental Case</strong></h4>
+<p> The Instrumental Case is mainly used to describe the instrument by which the action is performed. For example: Я пишу с карандашом (I write with a pen). It is also used for time phrases such as 'Зимой' (In winter) and to describe your job 'Я работаю астронавтом' (I work as an astronaut). The prepositions used are: <strong>за, между, над, перед, под, с</strong>. The Instrumental endings are shown below, with S or P for singular or plural respectively, M for masculine, F for feminine and N for neuter:</p>
+<ul>
+  <li><strong>-ом (S,M,N)</strong></li>
+  <li><strong>-ем (S,M,N)</strong></li>
+  <li><strong>-ой (S,M,F)</strong></li>
+  <li><strong>-ью (S,F)</strong></li>
+  <li><strong>-ами (P,M,N,F)</strong></li>
+  <li><strong>-ями (P,M,N,F)</strong></li>
+</ul>
 
 
 
