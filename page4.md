@@ -72,7 +72,7 @@
   <li><strong>ADD 'у' (S,M)</strong></li>
   <li><strong>REMOVE 'о' or 'а' then ADD 'ах' (P,M,N,F)</strong></li>
   <li><strong>REMOVE 'ь' or 'й' or 'е' or 'я' then ADD 'ях' (P,M,N,F)</strong></li>
-</UL>
+</ul>
 
 
 
