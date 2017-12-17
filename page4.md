@@ -20,49 +20,48 @@
 <h4><strong>Accusative Case</strong></h4>
 <p> The Accusative Case is used in setences to designate a person or thing to which the action is being done; i.e. where the noun directly follows a verb. For example: Люся любит брата (Lucy loves her brother) where brother goes into the accusative case. The prepositions are: <strong>в, на, за, о/об, по, под, про, с, через</strong>. The Accusative endings are shown below, with S or P for singular or plural respectively, M for masculine, F for feminine and N for neuter:</p>
 <ul>
-  <li><strong>-у</strong></li>
-  <li><strong>-ю</strong></li>
-  <li><strong>-а</strong></li>
-  <li><strong>-я</strong></li>
-  <li><strong>-ей</strong></li>
-  <li><strong>-ой</strong></li>
-  <li><strong>-ов</strong></li>
-  <li><strong>-ев</strong></li>
+  <li><strong>REMOVE 'а' ADD '-у' (S,M,F)</strong></li>
+  <li><strong>REMOVE 'я' ADD '-ю' (S,M,F)</strong></li>
+  <li><strong>ADD '-а' (S,M)</strong></li>
+  <li><strong>REMOVE 'ь' ADD '-я' (S,M)</strong></li>
+  <li><strong>REMOVE 'ь' ADD '-ей' (P,F,М)</strong></li>
+  <li><strong>ADD '-ов' (P,M)</strong></li>
+  <li><strong>ADD '-ев' (P,M)</strong></li>
 </ul>
 <hr>
 <h4><strong>Genitive Case</strong></h4>
 <p> The Genitive Case is used generally to show possession. For example: Крыша дома (the roof of the house) where house goes into the genitive to stress "<strong>of</strong> the house". The prepositions are: <strong>без, для, до, из, из-за, из-под, кроме, на, от, с, со, у, около, вокруг, недалеко от, позади, напротив, посреди, мимо, вдоль</strong>. The Genitive endings are shown below, with S or P for singular or plural respectively, M for masculine, F for feminine and N for neuter:</p>
 <ul>
-  <li><strong>-а (S,M,N)</strong></li>
-  <li><strong>-я (S,M,N)</strong></li>
-  <li><strong>-и (S,F)</strong></li>
-  <li><strong>-ы (S,F)</strong></li>
-  <li><strong>-ов (P,M)</strong></li>
-  <li><strong>-ев (P,M)</strong></li>
-  <li><strong>-ей (P,M,F)</strong></li>
-  <li><strong>-й (P,N)</strong></li>
+  <li><strong>REOMVE 'о' (Only if neuter noun) ADD '-а' (S,M,N)</strong></li>
+  <li><strong>REMOVE 'й' or 'е' ADD '-я' (S,M,N)</strong></li>
+  <li><strong>REMOVE 'ь' ADD '-и' (S,F)</strong></li>
+  <li><strong>REMOVE 'а' ADD '-ы' (S,F)</strong></li>
+  <li><strong>ADD '-ов' (P,M)</strong></li>
+  <li><strong>REMOVE 'й' ADD '-ев' (P,M)</strong></li>
+  <li><strong>REMOVE 'ь' ADD '-ей' (P,M,F)</strong></li>
+  <li><strong>ADD '-й' (P,N)</strong></li>
 </ul>
 <hr>
 <h4><strong>Dative Case</strong></h4>
 <p> The Dative Case is used, principally, for converying the idea of giving or "to" or "for". For example: Написать письмо другу (To write a letter to a friend). The dative is also used to show an object towards which an action is directed. For example: Верить другу (To trust a friend). The prepositions used are: <strong>по, к, подобно, согласно, благодаря, вопреки</strong>. The Dative endings are shown below, with S or P for singular or plural respectively, M for masculine, F for feminine and N for neuter:</p>
 <ul>
-  <li><strong>–у (S,M,F)</strong></li>
-  <li><strong>-ю (S,M,F)</strong></li>
-  <li><strong>-е (S,M,N)</strong></li>
-  <li><strong>-и (S,N)</strong></li>
-  <li><strong>-ам (P,M,N)</strong></li>
-  <li><strong>-ям (P,M,N,F)</strong></li>
+  <li><strong>REMOVE 'о' (Only if neuter noun) ADD '–у' (S,M,F)</strong></li>
+  <li><strong>REMOVE 'й' or 'е' ADD '-ю' (S,M,F)</strong></li>
+  <li><strong>REMOVE 'а' ADD '-е' (S,M,N)</strong></li>
+  <li><strong>REMOVE 'ь' ADD '-и' (S,N)</strong></li>
+  <li><strong>REMOVE 'о' (Only if neuter noun) ADD '-ам' (P,M,N)</strong></li>
+  <li><strong>REMOVE 'й' or 'ь' or 'е' ADD  '-ям' (P,M,N,F)</strong></li>
 </ul>
 <hr>
 <h4><strong>Instrumental Case</strong></h4>
 <p> The Instrumental Case is mainly used to describe the instrument by which the action is performed. For example: Я пишу с карандашом (I write with a pen). It is also used for time phrases such as 'Зимой' (In winter) and to describe your job 'Я работаю астронавтом' (I work as an astronaut). The prepositions used are: <strong>за, между, над, перед, под, с</strong>. The Instrumental endings are shown below, with S or P for singular or plural respectively, M for masculine, F for feminine and N for neuter:</p>
 <ul>
-  <li><strong>-ом (S,M,N)</strong></li>
-  <li><strong>-ем (S,M,N)</strong></li>
-  <li><strong>-ой (S,M,F)</strong></li>
-  <li><strong>-ью (S,F)</strong></li>
-  <li><strong>-ами (P,M,N,F)</strong></li>
-  <li><strong>-ями (P,M,N,F)</strong></li>
+  <li><strong>REMOVE 'o' (Only if neuter noun) '-ом' (S,M,N)</strong></li>
+  <li><strong>REMOVE 'й' or 'е' '-ем' (S,M,N)</strong></li>
+  <li><strong>REMOVE 'а'  '-ой' (S,M,F)</strong></li>
+  <li><strong>REMOVE 'ь' '-ью' (S,F)</strong></li>
+  <li><strong>REMOVE 'о' or 'а' '-ами' (P,M,N,F)</strong></li>
+  <li><strong>REMOVE 'ь' or 'й' or 'е' or 'я' -ями' (P,M,N,F)</strong></li>
 </ul>
 
 
