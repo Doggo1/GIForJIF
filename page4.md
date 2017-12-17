@@ -63,7 +63,16 @@
   <li><strong>REMOVE 'о' or 'а' then ADD '-ами' (P,M,N,F)</strong></li>
   <li><strong>REMOVE 'ь' or 'й' or 'е' or 'я' then ADD -ями' (P,M,N,F)</strong></li>
 </ul>
-
+<hr>
+<h4><strong>Prepositional Case</strong></h4>
+<p> The Prepositional Case is used after specific prepositions to designate a place or talk about a person. For example: Я говорю о маме (I am talking about my mum) or Я был в школе (I was at school). The prepositions used are: <strong>в, на, о, при</strong>. The Prepositional endings are shown below, with S or P for singular or plural respectively, M for masculine, F for feminine and N for neuter:</p>
+<ul>
+  <li><strong>REMOVE 'й' or 'а' or 'о' or 'е' then ADD 'е' (S,M,N,F)</strong></li>
+  <li><strong>REMOVE 'й' or 'и' or 'ь' then ADD 'и' (S,M,N,F)</strong></li>
+  <li><strong>ADD 'у' (S,M)</strong></li>
+  <li><strong>REMOVE 'о' or 'а' then ADD 'ах' (P,M,N,F)</strong></li>
+  <li><strong>REMOVE 'ь' or 'й' or 'е' or 'я' then ADD 'ях' (P,M,N,F)</strong></li>
+</UL>
 
 
 
