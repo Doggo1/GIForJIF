@@ -6,7 +6,7 @@
 <li><a href="https://doggo1.github.io/GIForJIF/page5.html">Page 5</a></li>
 </ul>
 
-<h1><strong>Grammar 1<strong></h1>
+<h1><strong>Grammar 1</strong></h1>
 <h2>Cases</h2>
 <p> The Case System in Russian is used to change forms of nouns, verbs and adjectives by editing the endings. The case of an individual endings for each case changes the meaning of the sentence. This is a brief introduction into each case for nouns; when they are used, how to use them and with which endings.</p>
 <h3><strong>Nominative Case</strong></h3>
