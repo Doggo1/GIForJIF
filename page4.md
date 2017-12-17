@@ -19,7 +19,7 @@
   </ul>
   <hr>
 <h3><strong>Accusative Case</strong></h3>
-<p> The Accusative Case is used in setences to designate a person or thing to which the action is being done; i.e. where the noun directly follows a verb. The endings are: <strong>в, на, за, о/об, по, под, про, с, через</strong>. For example: Люся любит брата (Lucy loves her brother) where brother goes into the accusative case.The Accusative endings are shown below:</p>
+<p> The Accusative Case is used in setences to designate a person or thing to which the action is being done; i.e. where the noun directly follows a verb. For example: Люся любит брата (Lucy loves her brother) where brother goes into the accusative case. The prepositions are: <strong>в, на, за, о/об, по, под, про, с, через</strong>. The Accusative endings are shown below, with S or P for singular or plural respectively, M for masculine, F for feminine and N for neuter:</p>
 <ul>
   <li><strong>-у</strong></li>
   <li><strong>-ю</strong></li>
@@ -30,7 +30,19 @@
   <li><strong>-ов</strong></li>
   <li><strong>-ев</strong></li>
 </ul>
-  
+<hr>
+<h3><strong>Genitive Case</strong></h3>
+<p> The Genitive Case is used generally to show possession. For example: Крыша дома (the roof of the house) where house goes into the genitive to stress "<strong>of</strong> the house". The prepositions are: <strong>без, для, до, из, из-за, из-под, кроме, на, от, с, со, у, около, вокруг, недалеко от, позади, напротив, посреди, мимо, вдоль</strong>. The Genitive endings are shown below, with S or P for singular or plural respectively, M for masculine, F for feminine and N for neuter:</p>
+<ul>
+  <li><strong>-а (S,M,N)</strong></li>
+  <li><strong>-я (S,M,N)</strong></li>
+  <li><strong>-и (S,F)</strong></li>
+  <li><strong>-ы (S,F)</strong></li>
+  <li><strong>-ов (P,M)</strong></li>
+  <li><strong>-ев (P,M)</strong></li>
+  <li><strong>-ей (P,M,F)</strong></li>
+  <li><strong>-й (P,N)</strong></li>
+</ul>
   
   
   
