@@ -12,7 +12,7 @@ function googleTranslateElementInit() {
 </ul>
 
 <h1><strong>General Vocabulary</strong></h1>
-<p> Learning vocabulary is a massive part of studying any language - Russian is no exception! This page is here to teach you some basic vocabulary within key areas of conversation; such as animals, food and sports.
+<p> Learning vocabulary is a key part of studying any language - Russian is no exception! This page is here to teach you some basic vocabulary within key areas of conversation; such as animals, food and sports.
 <hr>
 <h2>Food - Еда</h2>
 <p> Food is well-known to be one of the most important subjects to learn when starting a language - people talk about food every day! Below is a list of some of the main foods you need to learn, followed by a short list of Russian foods - hopefully one day you will be Putin' this to good use!</p>
