@@ -48,7 +48,7 @@ Test how well you remember the names of sports in Russian!
 <iframe src="https://h5p.org/h5p/embed/156872" width="1071" height="684" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <hr>
 <h2>Animals - Животные</h2>
-<p> Below are some important animals to learn, with English first, followed by the Russian translation:</p>
+<p> The first activity is to learn the vocabulary seen below, this will be followed by a video with questions to answer as you go. The following animals are listed English first, followed by the Russian translation:</p>
 <ul>
   <li>Dog - Собака</li>
   <li>Cat - Кошка</li>
@@ -61,8 +61,9 @@ Test how well you remember the names of sports in Russian!
   <li>Bird - Птица</li>
   <li>Snake - Змея</li>
   <li>Fly - Муха</li>
-
-
+</ul>
+  <h2>Interactive Animal Video</h2>
+<iframe src="https://h5p.org/h5p/embed/158885" width="1090" height="674" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 
