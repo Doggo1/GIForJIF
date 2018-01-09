@@ -25,7 +25,7 @@ function googleTranslateElementInit() {
   <li>History and Culture of Russia</li>
   <li>Frequently asked Questions</li>
 </ul>
-<p> In the 'About Russia' section, you will learn all you need to know about the people and the sights. Then, in the 'History and Culture' area, a brief history of Russia is provided, as well as all of their traditions and superstitions! The 'Frequently asked Questions' section will hopefully answer any queries you have about Russia or its lanugage.</p> 
+<p> In the 'About Russia' section, you will learn all you need to know about the people and the sights. Then, in the 'History and Culture' area, a brief history of Russia is provided, as well as all of their traditions and superstitions! The 'Frequently asked Questions' section will hopefully answer any queries you have about Russia or its language.</p> 
 <hr>
 
 <h3>Interesting Russian Site Links</h3>
