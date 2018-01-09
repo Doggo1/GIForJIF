@@ -12,4 +12,5 @@ function googleTranslateElementInit() {
 </ul>
 
 <h1> About Russia: Culture, History and Traditions</h1>
-
+<h2> Culture</h2>
+<p>Russia's culture reaches as far back as its deep and interesting history. Early Russian culture began in the Kievan period (roughly 10th–13th century) and has been developed and altered over time. During the Soviet Era most customs and traditions of Russia’s imperial past were suppressed, and life was strictly controlled and regulated by the state through its vast intelligence network. Beginning in the 1980s, Mikhail Gorbachev’s reforms eased political and social restrictions, and common traditions and folkways, along with the open practice of religion, began to reappear. </p>
