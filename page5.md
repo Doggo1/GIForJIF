@@ -11,7 +11,7 @@ function googleTranslateElementInit() {
 <li><a href="https://doggo1.github.io/GIForJIF/page5.html">Page 5</a></li>
 </ul>
 <h1>Tenses</h1>
-<p>Learning how and when to use tenses can be an appropriate and effective method of demonstrating your language skills at an early stage. This area should help you to familiarise yourself with the Future and Past tense, with a short section explaining aspect as well.</p>
+<p>Learning how and when to use tenses can be an appropriate and effective method of demonstrating your language skills at an early stage. This area should help you to familiarise yourself with the Future and Past tense, with a short section explaining the subjunctive mood as well.</p>
 <h2>Past Tense</h2>
 <p> Watch the video below for a quick introduction to Verbs in Past Tense in Russian. Complete the questions within the video. Then, move onto the first exercise, where you will need to read through the text carefully, identify the <i>singular</i> past tense verbs and mark them.</p>
 <iframe src="https://h5p.org/h5p/embed/154506" width="1090" height="674" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -32,7 +32,7 @@ function googleTranslateElementInit() {
 <h3>Exercise</h3>
 <iframe src="https://h5p.org/h5p/embed/166288" width="1090" height="232" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <hr>
-<h2>Aspect in Russian</h2>
+<h2>Subjunctive Mood in Russian</h2>
 
 
 
