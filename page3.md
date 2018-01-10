@@ -14,15 +14,15 @@
   <li>Доброе Утро! - Good Morning!</li>
   <li>Добрый День! - Good Day!</li>
   <li>Добрый Вечер! - Good Evening!</li>
-  <li>Привет! - Hi!</li>
-  <li>Здорово - How you doing</li>
+  <li>Привет! - Hi! (Informal)</li>
+  <li>Здорово - How you doing (Informal)</li>
   <li>Здравствуйте - Hello</li>
   <li>Как Дела? - How's it going?</li>
 </ul>
 <ul>
-  <li>Пока! - See ya!</li>
+  <li>Пока! - See ya! (Informal)</li>
   <li>До свидания! - Bye!</li>
-  <li>Увидимся - See ya</li>
+  <li>Увидимся - See ya (Informal)</li>
   <li>К сожалению, мне пора итди - Unfortunately, I must be leaving</li>
 </ul>
 <hr>
@@ -32,7 +32,7 @@
   <li>Большое спасибо - Thank you very much</li>
   <li>Пожалуйста - Please</li>
   <li>Простите - Excuse Me</li>
-  <li>Ничего, ничего - That's alright</li>
+  <li>Ничего, ничего - That's alright (Informal)</li>
 </ul>
 <hr>
 <h2>Everday Phrases</h2>
