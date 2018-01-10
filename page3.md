@@ -43,9 +43,11 @@
   <li>Вы можете мне помочь? - Can you help me?</li>
 </ul>  
 <hr>
-<p>Below is an audio recorder for you to test your pronunciation of words and phrases. Afterwards, you can play the recording back to yourself to check the intonation and stress.</p>
+<h1>Test your Pronunciation</h1>
+<p>Here you can test your pronunciation of words and phrases. Afterwards, you can play the recording back to yourself to check the intonation and stress.</p>
 <iframe src="https://h5p.org/h5p/embed/166240" width="1090" height="434" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <hr>
+<h1>Mini-Test</h1>
 <p>Finally, here is a small test on the pronunciation of the phrases you have been taught; simply plug in headphones with a microphone and follow the test instructions.</p>
 <iframe src="https://h5p.org/h5p/embed/166263" width="1090" height="299" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
