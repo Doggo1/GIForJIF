@@ -45,10 +45,7 @@
 <hr>
 <p>Below is an audio recorder for you to test your pronunciation of words and phrases. Afterwards, you can play the recording back to yourself to check the intonation and stress.</p>
 <iframe src="https://h5p.org/h5p/embed/166240" width="1090" height="434" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-<audio controls preload> 
-    <source src="Good Day.wav"></source> 
-    <source src="Good Day.wav"></source> 
-</audio>
+
 
 
 
