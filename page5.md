@@ -34,7 +34,7 @@ function googleTranslateElementInit() {
 <iframe src="https://h5p.org/h5p/embed/166288" width="1090" height="232" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <hr>
 <h2>Subjunctive Mood in Russian</h2>
-<p>The subjunctive acts as a mood in Russian, where in other languages it is its own tense. In Russian it is used to talk about actions which have not yet occurred but have the potential of occurring. For example, in English: "I would love to move to France". It is formed with the use of "<strong>Бы</strong>" and the past tense verb conjugated in number. For example: "I would say that" - "<strong>Я бы сказал что</strong>". The verb to speak in the past tense is "<strong>сказать</strong>" so we form it in past tense, first person singular (I Form) and combine it with "<strong>Бы</strong>". More examples can be seen below:</p>
+<p>The subjunctive acts as a mood in Russian, where in other languages it is its own tense. In Russian it is used to talk about actions which have not yet occurred but have the potential of occurring. For example, in English: "I <strong>would</strong> love to move to France". It is formed with the use of "<strong>Бы</strong>" and the past tense verb conjugated in number. For example: "I would say that" - "<strong>Я бы сказал что</strong>". The verb to speak in the past tense is "<strong>сказать</strong>" so we form it in past tense, first person singular (I Form) and combine it with "<strong>Бы</strong>". More examples can be seen below:</p>
 <ul>
   <li><strong>Я бы охтыхал</strong> - I would relax</li>
   <li><strong>Он двигался бы</strong> - He would move</li>
