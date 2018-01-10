@@ -21,12 +21,12 @@ function googleTranslateElementInit() {
 <h1>Future Tense</h1>
 <p>In Russian, future tense is formed in two distinct ways. Firstly, there is the simple future, which is formed by using the perfective aspect and a personal ending. For example: <strong>Она прочитает</strong> - which means "She will read" or "She will have read". There is also the compound future, which is formed with the use of the verb to be "<strong>Быть</strong>" in the future simple and the infinitive form of an imperfective verb. For example: <strong>Она будет читать</strong> - which means "She will read". Below are some clear examples.</p>
 <ul>
-  <li>First Person Singular (I Form) - Я Буду читать (I will [have] read)</li>
-  <li>First Person Plural (We Form) - Мы будем читать (We will [have] read) </li>
-  <li>Second Person Singular (You Form) - Ты будешь читать (You will [have] read)</li>
-  <li>Second Person Plural (You PL Form) - Вы будете читать (You will [have] read)</li>
-  <li>Third Person Singular (He/She/It Form) - Он/Она/Оно будет читать (He/She/It will [have] read)</li>
-  <li>Third Person Plural (They Form) - Они будут читать (They will [have] read)</li>
+  <li>First Person Singular (I Form) - <strong>Я Буду читать</strong> (I will [have] read)</li>
+  <li>First Person Plural (We Form) - <strong>Мы будем читать</strong> (We will [have] read) </li>
+  <li>Second Person Singular (You Form) - <strong>Ты будешь читать</strong> (You will [have] read)</li>
+  <li>Second Person Plural (You PL Form) - <strong>Вы будете читать</strong> (You will [have] read)</li>
+  <li>Third Person Singular (He/She/It Form) - <strong>Он/Она/Оно будет читать</strong> (He/She/It will [have] read)</li>
+  <li>Third Person Plural (They Form) - <strong>Они будут читать</strong> (They will [have] read)</li>
 </ul>
 
 
