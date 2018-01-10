@@ -5,11 +5,11 @@ function googleTranslateElementInit() {
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <ul class="breadcrumb">
   <li><a href="https://doggo1.github.io/GIForJIF/index.html">Home</a></li>
-  <li><a href="https://doggo1.github.io/GIForJIF/page2.html">Page 2</a></li>
-<li><a href="https://doggo1.github.io/GIForJIF/page3.html">Page 3</a></li>
-<li><a href="https://doggo1.github.io/GIForJIF/page4.html">Page 4</a></li>
-<li><a href="https://doggo1.github.io/GIForJIF/page5.html">Page 5</a></li>
-<li><a href="https://doggo1.github.io/GIForJIF/page6.html">Page 6</a></li>
+  <li><a href="https://doggo1.github.io/GIForJIF/page2.html">General Vocabulary</a></li>
+<li><a href="https://doggo1.github.io/GIForJIF/page3.html">Oral Practice</a></li>
+<li><a href="https://doggo1.github.io/GIForJIF/page4.html">Grammar (Cases)</a></li>
+<li><a href="https://doggo1.github.io/GIForJIF/page5.html">Grammar (Tenses)</a></li>
+<li><a href="https://doggo1.github.io/GIForJIF/page6.html">About Russia</a></li>
 </ul>
 
 <h1>Oral Practice</h1>
