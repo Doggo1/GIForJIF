@@ -27,7 +27,7 @@ function googleTranslateElementInit() {
   <li>Third Person Plural (They Form) - <strong>Они будут читать</strong> (They will [have] read)</li>
 </ul>
 <p> Next up is an exercise for you to practice using the compound future.</p>
-<h2>Fill in the Blanks</h2>
+<h2>Exercise</h2>
 <iframe src="https://h5p.org/h5p/embed/166288" width="1090" height="232" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <hr>
 
