@@ -9,6 +9,7 @@ function googleTranslateElementInit() {
 <li><a href="https://doggo1.github.io/GIForJIF/page3.html">Page 3</a></li>
 <li><a href="https://doggo1.github.io/GIForJIF/page4.html">Page 4</a></li>
 <li><a href="https://doggo1.github.io/GIForJIF/page5.html">Page 5</a></li>
+<li><a href="https://doggo1.github.io/GIForJIF/page6.html">Page 6</a></li>
 </ul>
 <h1>Tenses</h1>
 <p>Learning how and when to use tenses can be an appropriate and effective method of demonstrating your language skills at an early stage. This area should help you to familiarise yourself with the Future and Past tense, with a short section explaining the subjunctive mood as well.</p>
