@@ -9,6 +9,7 @@ function googleTranslateElementInit() {
 <li><a href="https://doggo1.github.io/GIForJIF/page3.html">Page 3</a></li>
 <li><a href="https://doggo1.github.io/GIForJIF/page4.html">Page 4</a></li>
 <li><a href="https://doggo1.github.io/GIForJIF/page5.html">Page 5</a></li>
+<li><a href="https://doggo1.github.io/GIForJIF/page6.html">Page 6</a></li>
 </ul>
 <h1><strong>Grammar 1</strong></h1>
 <h2><strong>Cases</strong></h2>
