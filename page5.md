@@ -10,13 +10,15 @@ function googleTranslateElementInit() {
 <li><a href="https://doggo1.github.io/GIForJIF/page4.html">Page 4</a></li>
 <li><a href="https://doggo1.github.io/GIForJIF/page5.html">Page 5</a></li>
 </ul>
-<h1>Past Tense</h1>
+<h1>Tenses</h1>
+<p>Learning how and when to use tenses can be an appropriate and effective method of demonstrating your language skills at an early stage. This area should help you to familiarise yourself with the Future and Past tense, with a short section explaining aspect as well.</p>
+<h2>Past Tense</h2>
 <p> Watch the video below for a quick introduction to Verbs in Past Tense in Russian. Complete the questions within the video. Then, move onto the first exercise, where you will need to read through the text carefully, identify the <i>singular</i> past tense verbs and mark them.</p>
 <iframe src="https://h5p.org/h5p/embed/154506" width="1090" height="674" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <h2>Exercise</h2>
 <iframe src="https://h5p.org/h5p/embed/153236" width="1090" height="326" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> 
 <hr>
-<h1>Future Tense</h1>
+<h2>Future Tense</h2>
 <p>In Russian, the future tense is applied in two distinct forms. Firstly, there is the simple future, which is formed by using the perfective aspect and a personal ending. For example: <strong>Она прочитает</strong> - which means "She will read" or "She will have read". There is also the compound future, which is formed with the use of the verb to be "<strong>Быть</strong>" in the future simple and the infinitive form of an imperfective verb. For example: <strong>Она будет читать</strong> - which means "She will read". Below are some clear examples.</p>
 <ul>
   <li>First Person Singular (I Form) - <strong>Я Буду читать</strong> (I will [have] read)</li>
@@ -27,7 +29,7 @@ function googleTranslateElementInit() {
   <li>Third Person Plural (They Form) - <strong>Они будут читать</strong> (They will [have] read)</li>
 </ul>
 <p> Next up is an exercise for you to practice using the compound future.</p>
-<h2>Exercise</h2>
+<h3>Exercise</h3>
 <iframe src="https://h5p.org/h5p/embed/166288" width="1090" height="232" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <hr>
 
