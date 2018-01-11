@@ -11,7 +11,7 @@ function googleTranslateElementInit() {
 <li><a href="https://doggo1.github.io/GIForJIF/page5.html">Grammar - Tenses</a></li>
 <li><a href="https://doggo1.github.io/GIForJIF/page6.html">About Russia</a></li>
 </ul>
-<h1>Grammar - Cases</h1>
+<h1>Cases</h1>
 <p> The Case System in Russian is used to change forms of nouns, verbs and adjectives by editing the endings. The case of an individual endings for each case changes the meaning of the sentence. This is a brief introduction into each case for nouns; when they are used, how to use them and with which endings.</p>
 <h2>Nominative Case</h2>
 <p> Nominative is the first form of Russian nouns. This is the form in which all nouns begin, how they appear in dictionaries etc. It is used to speak about the person or action in a specific state, or to define the person or things, or to designate the person on which the action is directed. For example:</p>
