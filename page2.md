@@ -12,7 +12,7 @@ function googleTranslateElementInit() {
 <li><a href="https://doggo1.github.io/GIForJIF/page6.html">About Russia</a></li>
 </ul>
 
-<h1><strong>General Vocabulary</strong></h1>
+<h1>General Vocabulary</h1>
 <p> Learning vocabulary is a key part of studying any language - Russian is no exception! This page is here to teach you some basic vocabulary within key areas of conversation; such as animals, food and sports.
 <hr>
 <h2>Food - Еда</h2>
