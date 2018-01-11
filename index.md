@@ -19,7 +19,7 @@ function googleTranslateElementInit() {
 <hr>
 <h2>Areas of Focus</h2>
 <iframe src="https://h5p.org/h5p/embed/166358" width="1090" height="252" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-<h3> Additional Information - Page 6</h3>
+<h2> Additional Information - Page 6</h2>
 <ul>
   <li>About Russia</li>
   <li>History and Culture of Russia</li>
@@ -28,7 +28,7 @@ function googleTranslateElementInit() {
 <p> In the 'About Russia' section, you will learn all you need to know about the people and the sights. Then, in the 'History and Culture' area, a brief history of Russia is provided, as well as all of their traditions and superstitions! The 'Frequently asked Questions' section will hopefully answer any queries you have about Russia or its language.</p> 
 <hr>
 
-<h3>Interesting Russian Site Links</h3>
+<h2>Interesting Russian Site Links</h2>
 <p>Here you can find a variety of links for information about Russia, further reading and language help too!</p>
 <ul>
   <li><a href="http://www.bbc.com/russian">ББС Россия</a></li>
