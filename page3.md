@@ -55,8 +55,7 @@ function googleTranslateElementInit() {
 <hr>
 <h2>Mini-Test</h2>
 <p>Finally, here is a small test on the pronunciation of the phrases you have been taught; simply plug in headphones with a microphone and follow the test instructions.</p>
-<iframe src="https://h5p.org/h5p/embed/166263" width="1090" height="299" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
+<iframe src="https://h5p.org/h5p/embed/166263" width="1090" height="305" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 
