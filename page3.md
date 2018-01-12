@@ -17,36 +17,36 @@ function googleTranslateElementInit() {
 <hr>
 <h2>Greeting and Departing Phrases</h2>
 <ul>
-  <li>Доброе Утро! - Good Morning!</li>
-  <li>Добрый День! - Good Day!</li>
-  <li>Добрый Вечер! - Good Evening!</li>
-  <li>Привет! - Hi! (Informal)</li>
-  <li>Здорово - How you doing (Informal)</li>
-  <li>Здравствуйте - Hello</li>
-  <li>Как Дела? - How's it going?</li>
+  <li>Доброе Утро! [Dobroe Utra!] - Good Morning!</li>
+  <li>Добрый День! [Dobryi Den!] - Good Day!</li>
+  <li>Добрый Вечер! [Dobryi Vecher!] - Good Evening!</li>
+  <li>Привет! [Privet!] - Hi! (Informal)</li>
+  <li>Здорово [Zdorovo] - How you doing (Informal)</li>
+  <li>Здравствуйте [Stravstvyite] - Hello</li>
+  <li>Как Дела? [Kak dela?] - How's it going?</li>
 </ul>
 <ul>
-  <li>Пока! - See ya! (Informal)</li>
-  <li>До свидания! - Bye!</li>
-  <li>Увидимся - See ya (Informal)</li>
-  <li>К сожалению, мне пора идти - Unfortunately, I must be leaving</li>
+  <li>Пока! [Poka] - See ya! (Informal)</li>
+  <li>До свидания! [Do Svidaniya] - Bye!</li>
+  <li>Увидимся [Uvidimsya] - See ya (Informal)</li>
+  <li>К сожалению, мне пора идти [K sojaleniyu mne pora idti] - Unfortunately, I must be leaving</li>
 </ul>
 <hr>
 <h2>Apologies and Thanking</h2>
 <ul>
-  <li>Спасибо - Thank you</li>
-  <li>Большое спасибо - Thank you very much</li>
-  <li>Пожалуйста - Please</li>
-  <li>Простите - Excuse Me</li>
-  <li>Ничего, ничего - That's alright (Informal)</li>
+  <li>Спасибо [Spasibo] - Thank you</li>
+  <li>Большое спасибо [Bolshoe Spasibo] - Thank you very much</li>
+  <li>Пожалуйста [Pozhalsta] - Please</li>
+  <li>Простите [Prostite] - Excuse Me</li>
+  <li>Ничего, ничего [Nichevo, nichevo] - That's alright (Informal)</li>
 </ul>
 <hr>
 <h2>Everday Phrases</h2>
 <ul>
-  <li>Скажитие, пожалуйста где...? - Please tell me where is...? </li>
-  <li>Я не понимаю - I do not understand</li>
-  <li>Вы говорите по-Английски? - Do you speak English?</li>
-  <li>Вы можете мне помочь? - Can you help me?</li>
+  <li>Скажитие, пожалуйста где...? [Skadjitie podjalsta gde...?] - Please tell me where is...? </li>
+  <li>Я не понимаю [Ya ne panimayu] - I do not understand</li>
+  <li>Вы говорите по-Английски? [Vy govorite po-Angliski] - Do you speak English?</li>
+  <li>Вы можете мне помочь? [Vy mozhete mne pomoch?] - Can you help me?</li>
 </ul>  
 <hr>
 <h2>Test your Pronunciation</h2>
