@@ -22,10 +22,10 @@ function googleTranslateElementInit() {
 <h2> Additional Information - Page 6</h2>
 <ul>
   <li>About Russia</li>
-  <li>History and Culture of Russia</li>
+  <li>Culture of Russia</li>
   <li>Frequently asked Questions</li>
 </ul>
-<p> In the 'About Russia' section, you will learn all you need to know about the people and the sights. Then, in the 'History and Culture' area, a brief history of Russia is provided, as well as all of their traditions and superstitions! The 'Frequently asked Questions' section will hopefully answer any queries you have about Russia or its language.</p> 
+<p> In the 'About Russia' section, you will learn all you need to know about the people and the sights. Then, in the 'Culture' area,there is a brief outline of their culture, as well as all of their traditions and superstitions! The 'Frequently asked Questions' section will hopefully answer any queries you have about Russia or its language.</p> 
 <hr>
 
 <h2>Interesting Russian Site Links</h2>
