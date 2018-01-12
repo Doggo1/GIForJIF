@@ -11,23 +11,6 @@ function googleTranslateElementInit() {
 <li><a href="https://doggo1.github.io/GIForJIF/page5.html">Grammar - Tenses</a></li>
 <li><a href="https://doggo1.github.io/GIForJIF/page6.html">About Russia</a></li>
 </ul>
-
-<h1> About Russia: Culture, History and Traditions</h1>
-<h2> Culture</h2>
-<p><div id="google_translate_element"></div><script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-<ul class="breadcrumb">
-  <li><a href="https://doggo1.github.io/GIForJIF/index.html">Home</a></li>
-  <li><a href="https://doggo1.github.io/GIForJIF/page2.html">General Vocabulary</a></li>
-<li><a href="https://doggo1.github.io/GIForJIF/page3.html">Oral Practice</a></li>
-<li><a href="https://doggo1.github.io/GIForJIF/page4.html">Grammar - Cases</a></li>
-<li><a href="https://doggo1.github.io/GIForJIF/page5.html">Grammar - Tenses</a></li>
-<li><a href="https://doggo1.github.io/GIForJIF/page6.html">About Russia</a></li>
-</ul>
-
 <h1> About Russia</h1>
 <p>Russia is the largest country in the world, constituting approximately 15% of the worlds' land mass and spanning over 5 time zones. It is not a country many people would immediately think of when discussing the best holiday destinations; however, it is a country with an abundance of intruiging history, fascinating culture and lovely, caring people. Additionally, Russia is also home to some famous monuments, such as St Basil's Cathedral, the Kremlin, Lenin's Mausoleum and the Hermitage, which are all sights for once in a lifetime.</p>
 <hr>
@@ -38,7 +21,6 @@ function googleTranslateElementInit() {
   <li> Arts - Arts and literature play an important role, not simply in the history of Russia, but as a consequence, in their entire culture. Many esteemed novelists and poets originate from Russia, some of which you will have heard of: the great writers Fedor Dostoevsky, Leo Tolstoy, the poet Alexander Pushkin and the playwright Anton Chekhov to name but a few. In addition to this are the famous onion-domed cathedrals (St. Basils Cathedral is featured below) which began to appear predominantly during the reign of Ivan the Terrible. They are often mused as architectural monuments to God, as they often come with crosses mounted and with 3 spires.</li>
   <li>Food and Drink - Russian food and drink are traditionally a considerable part of their culture, and will most definitely constitute your meals should you visit. Conventional meals come in the form of Borscht (Cabbage Soup), Piriozhki (Small baked buns filled with meat and vegetables) and Blini (Caviar formed from sturgeon eggs traditionally found in the Black Sea, which come with bread or in pancakes). Vodka is infamously the unofficial alcoholic drink of Russia, however it is much more than a tradition. In Russia, when you drink to something, you toast to specific people or holidays; therefore, it is more of a respected custom than a tradition to be waived.</li>
 </ul>
-<img src="https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwig9a721tLYAhWBBsAKHYh2BHkQjRwIBw&url=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-29490220-stock-footage-moscow-red-square-time-lapse-view-of-kremlin-and-st-basil-s-cathedral-in-moscow-russia-zoom-in.html%3Fsrc%3Drel%2F4406555%3A9&psig=AOvVaw085W1dONHUZ9U7myyJlxQ9&ust=1515855190648853.jpg" alt="St. Basils Cathedral">
 <h2>Traditions and Superstitions</h2>
 <p>Russia is an extremely superstitious country, some of them are fairly normal, where as some are entirely obscure...</p>
 <ul>
@@ -47,9 +29,6 @@ function googleTranslateElementInit() {
   <li>An important tradition exists while completing the common task of running home after forgetting something: One should either leave the forgotten object and continue with their journey, or return home, collect the object and look in the mirror before they leave home. </li>
   <li>Young girls cannot sit on the corner of the table, otherwise it is said they will never marry.</li>
   <li>Giving a purse or wallet as a gift must have some sort of money inside, an empty one is considered to bring financial misfortune.</li>
-  <li></li>
-  <li></li>
-  <li></li>
 </ul>
 <hr>
 <h2>Frequently Asked Questions</h2>
