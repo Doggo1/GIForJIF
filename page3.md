@@ -34,7 +34,7 @@ function googleTranslateElementInit() {
 <hr>
 <h2>Apologies and Thanking</h2>
 <ul>
-  <li>Спасибо [<italic>Spasibo</italic>] - Thank you</li>
+  <li>Спасибо [Spasibo] - Thank you</li>
   <li>Большое спасибо [Bolshoe Spasibo] - Thank you very much</li>
   <li>Пожалуйста [Pozhalsta] - Please</li>
   <li>Простите [Prostite] - Excuse Me</li>
