@@ -38,6 +38,19 @@ function googleTranslateElementInit() {
   <li> Arts - Arts and literature play an important role, not simply in the history of Russia, but as a consequence, in their entire culture. Many esteemed novelists and poets originate from Russia, some of which you will have heard of: the great writers Fedor Dostoevsky, Leo Tolstoy, the poet Alexander Pushkin and the playwright Anton Chekhov to name but a few. In addition to this are the famous onion-domed cathedrals (St. Basils Cathedral is featured below) which began to appear predominantly during the reign of Ivan the Terrible. They are often mused as architectural monuments to God, as they often come with crosses mounted and with 3 spires.</li>
   <li>Food and Drink - Russian food and drink are traditionally a considerable part of their culture, and will most definitely constitute your meals should you visit. Conventional meals come in the form of Borscht (Cabbage Soup), Piriozhki (Small baked buns filled with meat and vegetables) and Blini (Caviar formed from sturgeon eggs traditionally found in the Black Sea, which come with bread or in pancakes). Vodka is infamously the unofficial alcoholic drink of Russia, however it is much more than a tradition. In Russia, when you drink to something, you toast to specific people or holidays; therefore, it is more of a respected custom than a tradition to be waived.</li>
 </ul>
+<img src="st basils.jpg" alt="St. Basils Cathedral">
+<h2>Traditions and Superstitions</h2>
+<p>Russia is an extremely superstitious country, some of them are fairly normal, where as some are entirely obscure...</p>
+<ul>
+  <li>Russians are enthusiastic with the common 'knock on wood' superstition to avoid bad luck, however, they go one step further than this and spit over their left shoulder three times whilst doing it (the devil sits on the left shoulder, so they spit at the devil)</li>
+  <li>On days with exams or important tests, Russians do not make their beds, wear anything new or cut their nails, out of fear of bad luck.</li>
+  <li>An important tradition exists while completing the common task of running home after forgetting something: One should either leave the forgotten object and continue with their journey, or return home, collect the object and look in the mirror before they leave home. </li>
+  <li>Young girls cannot sit on the corner of the table, otherwise it is said they will never marry.</li>
+  <li>Giving a purse or wallet as a gift must have some sort of money inside, an empty one is considered to bring financial misfortune.</li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 <hr>
 <h2>Frequently Asked Questions</h2>
 
