@@ -29,7 +29,7 @@ function googleTranslateElementInit() {
   <li>Пока! - See ya! (Informal)</li>
   <li>До свидания! - Bye!</li>
   <li>Увидимся - See ya (Informal)</li>
-  <li>К сожалению, мне пора итди - Unfortunately, I must be leaving</li>
+  <li>К сожалению, мне пора идти - Unfortunately, I must be leaving</li>
 </ul>
 <hr>
 <h2>Apologies and Thanking</h2>
