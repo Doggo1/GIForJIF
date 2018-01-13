@@ -34,9 +34,9 @@ function googleTranslateElementInit() {
 <hr>
 <h2>Frequently Asked Questions</h2>
 <ul>
-  <li>What site can I use to find a Russian alphabet? <a href="http://masterrussian.com/russian_alphabet.shtml">Master Russian</a> is a comprehensive site where you can find answers to your questions. </li>
-  <li>What is the difference between Russian and other Eastern European languages such as Polish? Subtle differences exist between the Eastern European langauges, however the majority of them are similar to Russian. This is because at one stage, they all constituted areas of the Russian Empire; so their current languages are adaptations of Russian, varying in pronunciation mainly.</li>
-  <li>How long does it take to become fluent in Russian? This question is difficult, as it depends on how immersed in the langauge and culture you are and how much time you can dedicate to the langauge. Generally, somewhere around 1500 hours for more complex languages is roughly correct, however, as stated it depends on various factors.  </li>
+  <li><strong>What site can I use to find a Russian alphabet?</strong> <a href="http://masterrussian.com/russian_alphabet.shtml">Master Russian</a> is a comprehensive site where you can find answers to your questions. </li>
+  <li><strong>What is the difference between Russian and other Eastern European languages such as Polish?</strong> Subtle differences exist between the Eastern European langauges, however the majority of them are similar to Russian. This is because at one stage, they all constituted areas of the Russian Empire; so their current languages are adaptations of Russian, varying in pronunciation mainly.</li>
+  <li><strong>How long does it take to become fluent in Russian?</strong> This question is difficult, as it depends on how immersed in the langauge and culture you are and how much time you can dedicate to the langauge. Generally, somewhere around 1500 hours for more complex languages is roughly correct, however, as stated it depends on various factors.  </li>
 </ul>  
 
 
