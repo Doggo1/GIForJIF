@@ -25,7 +25,6 @@ function googleTranslateElementInit() {
   <li>Food and Drink - Russian food and drink are traditionally a considerable part of their culture, and will most definitely constitute your meals should you visit. Conventional meals come in the form of Borscht (Cabbage Soup), Piriozhki (Small baked buns filled with meat and vegetables) and Blini (Caviar formed from sturgeon eggs traditionally found in the Black Sea, which come with bread or in pancakes). Vodka is infamously the unofficial alcoholic drink of Russia, however it is much more than a tradition. In Russia, when you drink to something, you toast to specific people or holidays; therefore, it is more of a respected custom than a tradition to be waived.</li>
 <hr>
 <img src="https://c1.staticflickr.com/3/2097/2259727779_aa219f0424_b.jpg" height = "400" width = "600" alt = "Blini">
-<hr>
 </ul>
 <hr>
 <h2>Traditions and Superstitions</h2>
