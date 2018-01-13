@@ -17,9 +17,10 @@ function googleTranslateElementInit() {
   <li> Arts - Arts and literature play an important role, not simply in the history of Russia, but as a consequence, in their entire culture. Many esteemed novelists and poets originate from Russia, some of which you will have heard of: the great writers Fedor Dostoevsky, Leo Tolstoy, the poet Alexander Pushkin and the playwright Anton Chekhov to name but a few. In addition to this are the famous onion-domed cathedrals (St. Basils Cathedral is featured below) which began to appear predominantly during the reign of Ivan the Terrible. They are often mused as architectural monuments to God, as they often come with crosses mounted and with 3 spires.</li>
   <li>Food and Drink - Russian food and drink are traditionally a considerable part of their culture, and will most definitely constitute your meals should you visit. Conventional meals come in the form of Borscht (Cabbage Soup), Piriozhki (Small baked buns filled with meat and vegetables) and Blini (Shown below) (Caviar formed from sturgeon eggs traditionally found in the Black Sea, which come with bread or in pancakes). Vodka is infamously the unofficial alcoholic drink of Russia, however it is much more than a tradition. In Russia, when you drink to something, you toast to specific people or holidays; therefore, it is more of a respected custom than a tradition to be waived.</li>
 </ul>
+
 <img src="https://c2.staticflickr.com/4/3638/3334505382_3e17ca3061_z.jpg?zz=1" style= "float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="https://c1.staticflickr.com/3/2097/2259727779_aa219f0424_b.jpg" style= "float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"> 
-<p style="clear: both;">
+<p style= "clear: both;">
 <hr>
 <h2>Traditions and Superstitions</h2>
 <p>Russia is an extremely superstitious country, some of them are fairly normal, where as some are entirely obscure...</p>
