@@ -47,6 +47,7 @@ function googleTranslateElementInit() {
   <li>Вы можете мне помочь? [Vy mozhete mne pomoch?] - Can you help me?</li>
 </ul>  
 <iframe src="https://archive.org/embed/EverydayUsefulPhrases" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<p>kjhkjkdj</p>
 <hr>
 <h2>Test your Pronunciation</h2>
 <p>Here you can test your pronunciation of words and phrases. Afterwards, you can play the recording back to yourself to check the intonation and stress.</p>
