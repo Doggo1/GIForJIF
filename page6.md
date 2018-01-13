@@ -32,8 +32,11 @@ function googleTranslateElementInit() {
 </ul>
 <hr>
 <h2>Frequently Asked Questions</h2>
-
-
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 
 
 
