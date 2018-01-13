@@ -46,9 +46,7 @@ function googleTranslateElementInit() {
   <li>Вы говорите по-Английски? [Vy govorite po-Angliski] - Do you speak English?</li>
   <li>Вы можете мне помочь? [Vy mozhete mne pomoch?] - Can you help me?</li>
 </ul>  
-<audio controls>
-  <source src="Everyday Useful Phrases.wav" type="audio/wav">
-</audio>
+<iframe src="https://archive.org/embed/EverydayUsefulPhrases" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <hr>
 <h2>Test your Pronunciation</h2>
 <p>Here you can test your pronunciation of words and phrases. Afterwards, you can play the recording back to yourself to check the intonation and stress.</p>
