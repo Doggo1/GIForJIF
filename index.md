@@ -29,10 +29,9 @@ function googleTranslateElementInit() {
 <hr>
 
 <h2>Interesting Russian Site Links</h2>
-<p>Here you can find a variety of links for information about Russia, further reading and language help too!</p>
+<p>Here you can find a variety of links for information about Russia, <strong>ББС Россия</strong> is pragmatic for the purposes of understanding current events in Russia. <strong>Англия</strong> can be convenient when looking to apply your reading skills to Russian newspapers, as newspapers in Russia are written in a completely different format to other styles of writing. You may require the tools on the <strong>Яндекс</strong> site for the purposes of translation.  </p>
 <ul>
   <li><a href="http://www.bbc.com/russian">ББС Россия</a></li>
   <li><a href="https://angliya.com/">Англия (Newspaper)</a></li>
-  <li><a href="https://www.yandex.ru/">Яндекс</a></li>
-   <li><a href="http://masterrussian.com/">Master Russian</a></li>
+  <li><a href="https://translate.yandex.ru/">Яндекс (Translator Tool)</a></li>
 </ul>
