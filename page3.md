@@ -28,7 +28,7 @@ function googleTranslateElementInit() {
   <li>К сожалению, мне пора идти [K sozhaleniyu mne pora idti] - Unfortunately, I must be leaving</li>
 </ul>
 <audio controls>
-  <source src="Greetings.wav" type="audio/ogg">
+  <source src="Greetings.wav" type="audio/wav">
 </audio>
 <hr>
 <h2>Apologies and Thanking</h2>
@@ -40,7 +40,7 @@ function googleTranslateElementInit() {
   <li>Ничего, ничего [Nichevo, nichevo] - That's alright (Informal)</li>
 </ul>
 <audio controls>
-  <source src="Apologies and Thanking.wav" type="audio/ogg">
+  <source src="Apologies and Thanking.wav" type="audio/wav">
 </audio>
 <hr>
 <h2>Everday Phrases</h2>
@@ -51,7 +51,7 @@ function googleTranslateElementInit() {
   <li>Вы можете мне помочь? [Vy mozhete mne pomoch?] - Can you help me?</li>
 </ul>  
 <audio controls>
-  <source src="Everyday Useful Phrases.wav" type="audio/ogg">
+  <source src="Everyday Useful Phrases.wav" type="audio/wav">
 </audio>
 <hr>
 <h2>Test your Pronunciation</h2>
