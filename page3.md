@@ -27,9 +27,7 @@ function googleTranslateElementInit() {
   <li>Увидимся [Uvidimsya] - See ya (Informal)</li>
   <li>К сожалению, мне пора идти [K sozhaleniyu mne pora idti] - Unfortunately, I must be leaving</li>
 </ul>
-<audio controls>
-  <source src="Greetings.wav" type="audio/wav">
-</audio>
+<iframe src="https://archive.org/embed/Greetings_201801" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <hr>
 <h2>Apologies and Thanking</h2>
 <ul>
