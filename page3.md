@@ -25,7 +25,7 @@ function googleTranslateElementInit() {
   <li>Пока! [Poka] - See ya! (Informal)</li>
   <li>До свидания! [Do Svidaniya] - Bye!</li>
   <li>Увидимся [Uvidimsya] - See ya (Informal)</li>
-  <li>К сожалению, мне пора идти [K sojaleniyu mne pora idti] - Unfortunately, I must be leaving</li>
+  <li>К сожалению, мне пора идти [K sozhaleniyu mne pora idti] - Unfortunately, I must be leaving</li>
 </ul>
 <hr>
 <h2>Apologies and Thanking</h2>
@@ -39,7 +39,7 @@ function googleTranslateElementInit() {
 <hr>
 <h2>Everday Phrases</h2>
 <ul>
-  <li>Скажитие, пожалуйста где...? [Skadjitie podjalsta gde...?] - Please tell me where is...? </li>
+  <li>Скажитие, пожалуйста где...? [Skazhitie pozhalsta gde...?] - Please tell me where is...? </li>
   <li>Я не понимаю [Ya ne panimayu] - I do not understand</li>
   <li>Вы говорите по-Английски? [Vy govorite po-Angliski] - Do you speak English?</li>
   <li>Вы можете мне помочь? [Vy mozhete mne pomoch?] - Can you help me?</li>
