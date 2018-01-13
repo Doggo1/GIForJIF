@@ -27,6 +27,9 @@ function googleTranslateElementInit() {
   <li>Увидимся [Uvidimsya] - See ya (Informal)</li>
   <li>К сожалению, мне пора идти [K sozhaleniyu mne pora idti] - Unfortunately, I must be leaving</li>
 </ul>
+<audio controls>
+  <source src="Greetings.wav" type="audio/ogg">
+</audio>
 <hr>
 <h2>Apologies and Thanking</h2>
 <ul>
@@ -36,6 +39,9 @@ function googleTranslateElementInit() {
   <li>Простите [Prostite] - Excuse Me</li>
   <li>Ничего, ничего [Nichevo, nichevo] - That's alright (Informal)</li>
 </ul>
+<audio controls>
+  <source src="Apologies and Thanking.wav" type="audio/ogg">
+</audio>
 <hr>
 <h2>Everday Phrases</h2>
 <ul>
@@ -44,6 +50,9 @@ function googleTranslateElementInit() {
   <li>Вы говорите по-Английски? [Vy govorite po-Angliski] - Do you speak English?</li>
   <li>Вы можете мне помочь? [Vy mozhete mne pomoch?] - Can you help me?</li>
 </ul>  
+<audio controls>
+  <source src="Everyday Useful Phrases.wav" type="audio/ogg">
+</audio>
 <hr>
 <h2>Test your Pronunciation</h2>
 <p>Here you can test your pronunciation of words and phrases. Afterwards, you can play the recording back to yourself to check the intonation and stress.</p>
