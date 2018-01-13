@@ -7,9 +7,6 @@ function googleTranslateElementInit() {
   <li><a href="https://doggo1.github.io/GIForJIF/index.html">Home</a></li>
   <li><a href="https://doggo1.github.io/GIForJIF/page2.html">General Vocabulary</a></li>
 <li><a href="https://doggo1.github.io/GIForJIF/page3.html">Oral Practice</a></li>
-<li><a href="https://doggo1.github.io/GIForJIF/page4.html">Grammar - Cases</a></li>
-<li><a href="https://doggo1.github.io/GIForJIF/page5.html">Grammar - Tenses</a></li>
-<li><a href="https://doggo1.github.io/GIForJIF/page6.html">About Russia</a></li>
 </ul>
 
 <h1>Oral Practice</h1>
