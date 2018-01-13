@@ -15,7 +15,7 @@ function googleTranslateElementInit() {
 <h1>Welcome to <strong>RLan</strong>, my language learning website.</h1>
 <hr>
 <h2>How can RLan help to improve my Russian?</h2>
-<p>RLan provides the necessary information and practice exercises to help you to become a better linguist. Across our 6 content pages, we cover a large variety of topics, focusing on all areas of language learning. We also include the key information you need to know about the culture and history of Russia, as well as a frequently asked questions section. So stop Stalin' and dive in!</p>
+<p>RLan provides the necessary information and practice exercises to help you to become a better linguist. Across our 6 content pages, we cover a large variety of topics, focusing on all areas of language learning. We also include the key information you need to know about the culture of Russia, as well as a frequently asked questions section. So stop Stalin' and get started!</p>
 <hr>
 <h2>Areas of Focus</h2>
 <iframe src="https://h5p.org/h5p/embed/166358" width="1090" height="252" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> 
