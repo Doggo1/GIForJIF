@@ -8,8 +8,6 @@ function googleTranslateElementInit() {
   <li><a href="https://doggo1.github.io/GIForJIF/page2.html">General Vocabulary</a></li>
 <li><a href="https://doggo1.github.io/GIForJIF/page3.html">Oral Practice</a></li>
 <li><a href="https://doggo1.github.io/GIForJIF/page4.html">Grammar - Cases</a></li>
-<li><a href="https://doggo1.github.io/GIForJIF/page5.html">Grammar - Tenses</a></li>
-<li><a href="https://doggo1.github.io/GIForJIF/page6.html">About Russia</a></li>
 </ul>
 <h1>Cases</h1>
 <p> The Case System in Russian is used to change forms of nouns, verbs and adjectives by editing the endings. The case of an individual endings for each case changes the meaning of the sentence. This is a brief introduction into each case for nouns; when they are used, how to use them and with which endings.</p>
