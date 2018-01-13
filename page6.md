@@ -19,7 +19,7 @@ function googleTranslateElementInit() {
 </ul>
 
 <img src="https://c2.staticflickr.com/4/3638/3334505382_3e17ca3061_z.jpg?zz=1" style= "float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="https://c1.staticflickr.com/3/2097/2259727779_aa219f0424_b.jpg" height="270" width="600" style= "float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"> 
+<img src="https://c1.staticflickr.com/3/2097/2259727779_aa219f0424_b.jpg" height="250" width="600" style= "float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"> 
 <p style= "clear: both;">
 <hr>
 <h2>Traditions and Superstitions</h2>
