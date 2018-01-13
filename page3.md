@@ -37,9 +37,7 @@ function googleTranslateElementInit() {
   <li>Простите [Prostite] - Excuse Me</li>
   <li>Ничего, ничего [Nichevo, nichevo] - That's alright (Informal)</li>
 </ul>
-<audio controls>
-  <source src="Apologies and Thanking.wav" type="audio/wav">
-</audio>
+<iframe src="https://archive.org/embed/ApologiesAndThanking" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <hr>
 <h2>Everday Phrases</h2>
 <ul>
