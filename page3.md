@@ -27,7 +27,11 @@ function googleTranslateElementInit() {
   <li>Увидимся [Uvidimsya] - See ya (Informal)</li>
   <li>К сожалению, мне пора идти [K sozhaleniyu mne pora idti] - Unfortunately, I must be leaving</li>
 </ul>
-<iframe src="https://archive.org/embed/Greetings_201801" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<audio controls style="width: 150px; display: block;" >
+<source src="https://archive.org/embed/Greetings_201801.mp3.ogg" type="audio/ogg" >
+<source src="https://archive.org/embed/Greetings_201801.mp3" type="audio/mpeg">
+<br />Your browser does not support the audio element.<br />
+</audio>
 <hr>
 <h2>Apologies and Thanking</h2>
 <ul>
@@ -37,7 +41,11 @@ function googleTranslateElementInit() {
   <li>Простите [Prostite] - Excuse Me</li>
   <li>Ничего, ничего [Nichevo, nichevo] - That's alright (Informal)</li>
 </ul>
-<iframe src="https://archive.org/embed/ApologiesAndThanking" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<audio controls style="width: 150px; display: block;" >
+<source src="https://archive.org/embed/ApologiesAndThanking.ogg" type="audio/ogg" >
+<source src="https://archive.org/embed/ApologiesAndThanking.mp3" type="audio/mpeg">
+<br />Your browser does not support the audio element.<br />
+</audio>
 <hr>
 <h2>Everday Phrases</h2>
 <ul>
@@ -46,8 +54,11 @@ function googleTranslateElementInit() {
   <li>Вы говорите по-Английски? [Vy govorite po-Angliski] - Do you speak English?</li>
   <li>Вы можете мне помочь? [Vy mozhete mne pomoch?] - Can you help me?</li>
 </ul>  
-<iframe src="https://archive.org/embed/EverydayUsefulPhrases" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<p>kjhkjkdj</p>
+<audio controls style="width: 150px; display: block;" >
+<source src="https://archive.org/embed/EverydayUsefulPhrases.ogg" type="audio/ogg" >
+<source src="https://archive.org/embed/EverydayUsefulPhrases.mp3" type="audio/mpeg">
+<br />Your browser does not support the audio element.<br />
+</audio>
 <hr>
 <h2>Test your Pronunciation</h2>
 <p>Here you can test your pronunciation of words and phrases. Afterwards, you can play the recording back to yourself to check the intonation and stress.</p>
