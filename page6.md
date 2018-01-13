@@ -33,7 +33,11 @@ function googleTranslateElementInit() {
 </ul>
 <hr>
 <h2>Frequently Asked Questions</h2>
-
+<ul>
+  <li>What site can I use to find a Russian alphabet? <a href="http://masterrussian.com/russian_alphabet.shtml">Master Russian</a> </li>
+  <li></li>
+  <li></li>
+</ul>  
 
 
 
