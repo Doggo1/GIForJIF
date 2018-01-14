@@ -16,6 +16,7 @@ function googleTranslateElementInit() {
 <iframe src="https://h5p.org/h5p/embed/153236" width="1090" height="326" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> 
 <hr>
 <iframe src="https://h5p.org/h5p/embed/154361" width="1090" height="288" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<hr>
 <h2>Future Tense</h2>
 <p>In Russian, the future tense is applied in two distinct forms. Firstly, there is the simple future, which is formed by using the perfective aspect and a personal ending. For example: <strong>Она прочитает</strong> - which means "She will read" or "She will have read". There is also the compound future, which is formed with the use of the verb to be "<strong>Быть</strong>" in the future simple and the infinitive form of an imperfective verb. For example: <strong>Она будет читать</strong> - which means "She will read". Below are some clear examples.</p>
 <ul>
