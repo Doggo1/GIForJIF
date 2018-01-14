@@ -49,11 +49,11 @@ function googleTranslateElementInit() {
 <iframe src="https://archive.org/embed/EverydayUsefulPhrases" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <hr>
 <h2>Test your Pronunciation</h2>
-<p>Here you can test your pronunciation of words and phrases. Afterwards, you can play the recording back to yourself to check the intonation and stress.</p>
+<p>Here you can test your pronunciation of words and phrases. Afterwards, you can play the recording back to yourself to check the intonation and stress placement.</p>
 <iframe src="https://h5p.org/h5p/embed/166240" width="1090" height="434" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <hr>
 <h2>Mini-Test</h2>
-<p>Finally, here is a small test on the pronunciation of the phrases you have been taught; simply plug in headphones with a microphone and follow the test instructions.</p>
+<p>Finally, here is a small test on the pronunciation of the phrases you have been taught; simply plug in headphones with a microphone and click the 'speak' button to start.</p>
 <iframe src="https://h5p.org/h5p/embed/166263" width="1090" height="305" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
